@@ -1,4 +1,4 @@
-## 🚀 Hello, I'm zLexxy !!
+## 🚀 Hello, I'm zLexxy Developer FiveM Server - SynergyDreamRp !!
 
 _💻 Currently working on QBCore Scripts, custom systems, and server optimizations_<br/>
 _🎨 Passionate about UI/UX, clean design & smooth animations_<br/>
